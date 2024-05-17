@@ -6,7 +6,7 @@ This is a Jira plugin allowing you to integrate Slack channels and Jira issues i
 From any Jira issue, you can:
 * create a Slack channel to discuss the issue
 * automatically invite reporter, assignees, commenters, project lead
-* see the activity from within Jira and jump directly in the discussion
+* see the activity from within Jira and jump directly in the discussion.
 
 # Screenshots
 Invite dialog example:
